@@ -8,4 +8,4 @@ Features:
 - Built with Sass: Modular Sass structure using partials.
 - Customizable: Change colors, fonts, and spacing through variables.
 - Utility Classes: Includes utility classes for color, margin, padding, typography, and borders.
-- Responsive and Consistent: Designed to apply consistent styles across HTML elements.
+- Responsive and Consistent: Designed to apply consistent styles across HTML elements. 
