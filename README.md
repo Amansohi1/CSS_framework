@@ -9,3 +9,27 @@ Features:
 - Customizable: Change colors, fonts, and spacing through variables.
 - Utility Classes: Includes utility classes for color, margin, padding, typography, and borders.
 - Responsive and Consistent: Designed to apply consistent styles across HTML elements. 
+
+# Folder Structure:
+/custom-css-framework
+|-- /scss
+|   |-- /base
+|   |   |-- _reset.scss
+|   |   |-- _typography.scss
+|   |-- /components
+|   |   |-- _buttons.scss
+|   |   |-- _forms.scss
+|   |   |-- _inputs.scss
+|   |   |-- _tables.scss
+|   |-- /utilities
+|   |   |-- _colors.scss
+|   |   |-- _spacing.scss
+|   |   |-- _borders.scss
+|   |   |-- _typography-utilities.scss
+|   |-- /theme
+|   |   |-- _variables.scss
+|   |   |-- _theme.scss
+|   |-- main.scss
+|-- /dist
+|   |-- styles.css
+|-- README.md
